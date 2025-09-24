@@ -1,4 +1,4 @@
-// Lab 1
+// Partner Lab 1
 // Group #12
 // Taina Saenz
 // September 23, 2025

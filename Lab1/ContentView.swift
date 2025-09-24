@@ -1,4 +1,4 @@
-// Lab 1
+// Partner Lab 1
 // Group 12
 // Taina Saenz
 // September 23, 2025
@@ -61,11 +61,6 @@ struct ContentView: View {
                     .font(.body)
                     .padding(.horizontal, 10)
                     .multilineTextAlignment(.leading)
-            } else {
-                Text("Select a dog to learn more!")
-                    .font(.subheadline)
-                    .foregroundColor(.gray)
-                    .padding(.horizontal, 10)
             }
             Spacer()
         }
